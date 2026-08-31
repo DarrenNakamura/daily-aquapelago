@@ -1,3 +1,33 @@
+.square {
+    background: #ffffff;
+    border: 2px solid #333;
+    float: left;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 34px;
+    height: 34px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: center;
+    width: 34px;
+}
+
+.unknown {
+    background: #ffffff;
+    color: #001404;
+}
+
+.unshaded {
+    background: #6dc4ea;
+    color: #001404;
+}
+
+.shaded {
+    background: #001404;
+    color: #ffffff;
+}
+
 .counter {
   font-size: 16px;
   padding: 5px 10px;
