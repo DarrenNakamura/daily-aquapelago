@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37411.7 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "dailyaquapelago", "DailyAquapelago\dailyaquapelago.esproj", "{54C54450-DC31-E5A7-395D-6B67266B4469}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54C54450-DC31-E5A7-395D-6B67266B4469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54C54450-DC31-E5A7-395D-6B67266B4469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54C54450-DC31-E5A7-395D-6B67266B4469}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{54C54450-DC31-E5A7-395D-6B67266B4469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54C54450-DC31-E5A7-395D-6B67266B4469}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54C54450-DC31-E5A7-395D-6B67266B4469}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05701608-3820-4A11-B3F1-C4B6ECA93FF5}
+	EndGlobalSection
+EndGlobal
